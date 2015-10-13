@@ -3,7 +3,7 @@ title: Embedded Video Analytics
 layout: post
 category: Stats
 description: Wistia's analytics are designed to help you understand how your audience engages with your content. Dive in to everything you could dream of knowing about Wistia's all time favorite subject, Statistics.
-post_intro: <p>Wistia stats are the best way to get a complete view of who is watching your video, and how they are watching and interacting with it.</p><p>This guide will show you how to approach the two parts of Wistia analytics, <b>Stats Trends</b> and the <b>Viewer Stream</b>.</p>
+post_intro: <p>Wistia stats are the best way to get a complete view of who is watching your video, and how they are watching and interacting with it.</p><p>This guide will show you how to approach the two parts of Wistia analytics, <b>Stats Trends</b> and the <b>View Stream</b>.</p>
 footer: 'for_intermediates'
 ---
 
@@ -208,24 +208,24 @@ reveal the IP address of the viewer, along with where they viewed the video
 {% post_image hashed_id: '073bef93c3b8b595d1a48f428fa0c74703085926', class: 'center' %}
 
 Clicking on the name link on the heatmap will take you to the Viewer page for
-that viewer.  The Viewer page is part of the **Viewer Stream**.
+that viewer.  The Viewer page is part of the **View Stream**.
 
 
 ---
 
-## Viewer Stream
+## View Stream
 
-The Viewer Stream is the other way of viewing Wistia analytics for your Account.  
+The View Stream is the other way of viewing Wistia analytics for your Account.  
 It begins a list of the latest viewers of any videos in the account, but can be
 drilled down into the individual viewer.
 
 {% post_image hashed_id: '6e97ff993bd90414c8fb88430c5e1b19f9cd731f', class: 'center' %}
 
-To open the Viewer Stream page, select **Viewer Stream** from under the Stats drop-down
+To open the View Stream page, select **View Stream** from under the Stats drop-down
 menu.
 
 
-The Viewer Stream is a snapshot of the viewers of your publicly embedded videos.  
+The View Stream is a snapshot of the viewers of your publicly embedded videos.  
 These will appear as a list of viewers, with their most recent heatmaps.
 
 {% post_image hashed_id: '646286b132082f1c347d85423229a3b4101e0b55', class: 'center' %}
